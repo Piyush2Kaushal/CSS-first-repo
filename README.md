@@ -1,4 +1,3 @@
-# CSS-first-repo
 # CSS Animation, Transition, and Transformation Playground
 <br>
 Welcome to my CSS animation, transition, and transformation playground! In this repository, I've explored various techniques and properties of CSS to create engaging and interactive web elements.
